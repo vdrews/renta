@@ -44,7 +44,6 @@ const HouseBar = () => {
       type="text"
       id="address"
       placeholder="e.g., Constant Spring"
-  
     />
     </div>
      <div className="flex items-center gap-1">
